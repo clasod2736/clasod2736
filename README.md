@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=094859&height=300&section=header&text=Hi!👋I'm%20Joon%20Park&fontSize=70&animation=fadeIn&fontColor=FFFFFF" width="400px" height="200px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=094859&height=300&section=header&text=Hi!👋I'm%20Joon%20Park&fontSize=70&animation=fadeIn&fontColor=FFFFFF" width="400px" height="250px"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasod2736)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=clasod2736)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=clasod2736&width=200)](https://git.io/streak-stats)
 <!--
 **clasod2736/clasod2736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
