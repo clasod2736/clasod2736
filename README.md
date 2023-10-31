@@ -1,8 +1,15 @@
+<div align=center>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=094859&&height=300&section=header&text=Welcome!&fontSize=70&animation=fadeIn&fontColor=FFFFFF&desc=clasod2736's%20Github%20Profile&descSize=25&descAlign=58&descAlignY=60&fontAlignY=45"/>
 
-----
-<div align=left>
-  
+<br>
+<br>
+
+### Links
+[![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:lsh6451217@gmail.com)](mailto:clasod2736@gmail.com)
+[![Linkedin](http://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&link=https://learngoeson.tistory.com/)](https://www.linkedin.com/in/joon-park-772a8820b/)
+[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=devpost&link=https://learngoeson.tistory.com/)](https:///)
+<br><br><br>
 ### About me
 I'm a _**self-taught**_ web developer living in Melbourne, Australia. So nice to meet you!
 
@@ -11,11 +18,10 @@ I'm currently in the process of transitioning my career from **chef** toweb **de
 I enjoy acquiring new skills, exploring tech events and meetingtech enthuasistslike myself!
 
 I'm now deeply immersed in learning _**front-end**_ web-development skills, more details about me below.
-</div>
-
-----
+<br>
+<br>
+<br>
 ### Stacks
-<div align=row>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,11 +38,15 @@ I'm now deeply immersed in learning _**front-end**_ web-development skills, more
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+
 </div>
+
+<br>
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasod2736&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=clasod2736&width=200&hide&border=false)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **clasod2736/clasod2736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
