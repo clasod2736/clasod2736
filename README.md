@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=042530&height=300&section=header&text=Hi!%20I'm%20Joon%20Park&fontSize=90&animation=fadeIn&fontColor=FFFFFF" width="600px" height="250px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=094859&height=300&section=header&text=Hi!%20I'm%20Joon%20Park&fontSize=90&animation=fadeIn&fontColor=FFFFFF" width="400px" height="200px"/>
 
 <!--
 **clasod2736/clasod2736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
