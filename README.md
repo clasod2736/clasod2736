@@ -36,7 +36,7 @@ I'm now deeply immersed in learning _**front-end**_ web-development skills, more
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasod2736&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=clasod2736&width=200&hide&border=false)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **clasod2736/clasod2736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
