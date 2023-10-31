@@ -41,6 +41,9 @@ I'm now deeply immersed in learning _**front-end**_ web-development skills, more
 
 </div>
 
+<br>
+<br>
+
 <!--
 **clasod2736/clasod2736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
