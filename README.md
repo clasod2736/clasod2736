@@ -5,7 +5,7 @@
 ### About me
 I'm a _**self-taught**_ web developer living in Melbourne, Australia. So nice to meet you!
 
-I'm currently in the process of transitioning my career from **chef** toweb **developer**.
+I'm currently in the process of transitioning my career from **chef** to web **developer**.
 
 I enjoy acquiring new skills, exploring tech events and meetingtech enthuasistslike myself!
 
