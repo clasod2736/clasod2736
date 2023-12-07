@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=094859&&height=250&section=header&text=Welcome!&fontSize=70&animation=fadeIn&fontColor=FFFFFF&desc=clasod2736's%20Github%20Profile&descSize=25&descAlign=58&descAlignY=52&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=094859&&height=250&section=header&text=Joon%20Park's&fontSize=70&animation=fadeIn&fontColor=FFFFFF&desc=Web%20Dev%20Archive&descSize=25&descAlign=58&descAlignY=52&fontAlignY=35"/>
 
 ### About me
 I'm a _**self-taught**_ web developer living in Melbourne, Australia. So nice to meet you!
