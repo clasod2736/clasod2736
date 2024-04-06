@@ -9,7 +9,7 @@ I'm currently in the process of transitioning my career from **chef** to web **d
 
 I enjoy acquiring new skills, exploring tech events and meetingtech enthuasistslike myself!
 
-I'm now deeply immersed in learning _**front-end**_ web-development skills, more details about me below.
+I'm now deeply immersed in learning _**front-end**_ and _**full-stack**_ web-development skills, more details about me below.
 <br>
 <br>
 ### Stacks
