@@ -39,7 +39,6 @@ I'm now deeply immersed in learning _**front-end**_ and _**full-stack**_ web-dev
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:lsh6451217@gmail.com)](mailto:clasod2736@gmail.com)
 [![Linkedin](http://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&link=https://learngoeson.tistory.com/)](https://www.linkedin.com/in/joon-park-772a8820b/)
-[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=devpost&link=https://learngoeson.tistory.com/)](https://joondev.blog)
 
 </div>
 
